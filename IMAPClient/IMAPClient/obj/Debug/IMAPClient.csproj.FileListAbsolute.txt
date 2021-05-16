@@ -1,0 +1,11 @@
+D:\Repos\IMAPClient\IMAPClient\bin\Debug\IMAPClient.exe.config
+D:\Repos\IMAPClient\IMAPClient\bin\Debug\IMAPClient.exe
+D:\Repos\IMAPClient\IMAPClient\bin\Debug\IMAPClient.pdb
+D:\Repos\IMAPClient\IMAPClient\obj\Debug\IMAPClient.csprojAssemblyReference.cache
+D:\Repos\IMAPClient\IMAPClient\obj\Debug\IMAPClient.Login.resources
+D:\Repos\IMAPClient\IMAPClient\obj\Debug\IMAPClient.MainScreen.resources
+D:\Repos\IMAPClient\IMAPClient\obj\Debug\IMAPClient.Properties.Resources.resources
+D:\Repos\IMAPClient\IMAPClient\obj\Debug\IMAPClient.csproj.GenerateResource.cache
+D:\Repos\IMAPClient\IMAPClient\obj\Debug\IMAPClient.csproj.CoreCompileInputs.cache
+D:\Repos\IMAPClient\IMAPClient\obj\Debug\IMAPClient.exe
+D:\Repos\IMAPClient\IMAPClient\obj\Debug\IMAPClient.pdb
